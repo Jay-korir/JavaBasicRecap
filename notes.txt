@@ -22,6 +22,8 @@ Location of where maven can check jar that are required dependency
  2. Central Repository
  3. Remote Repository 
 
+ guide by simon in reference to bavon
+
 
 How to generate application using maven command
 mvn archetype:generate -DgroupId=com.corhort10.sys -DartifactId=ApplicationName -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=true
